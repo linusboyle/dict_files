@@ -1,0 +1,7 @@
+hanyu.mdx filter=lfs diff=lfs merge=lfs -text
+ZHCD.mdx filter=lfs diff=lfs merge=lfs -text
+段注说文解字.mdx filter=lfs diff=lfs merge=lfs -text
+韦氏大学词典11.mdx filter=lfs diff=lfs merge=lfs -text
+中华成语大词典.mdx filter=lfs diff=lfs merge=lfs -text
+Oxford_Advanced_Learner_English-Chinese_Dictionary-4th.bgl filter=lfs diff=lfs merge=lfs -text
+hanyu.png filter=lfs diff=lfs merge=lfs -text
